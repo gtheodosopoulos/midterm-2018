@@ -25,3 +25,10 @@ The mid-term assignment files are available by cloning the [midterm-2018](https:
 ### How to submit the assignment
 
 Submit the assignment via [Moodle](https://shortcourses.lse.ac.uk/course/view.php?id=158).
+
+### Midterm solutions
+
+Available here
+*  [html](ME314_midterm_solution.html) 
+*  [RMarkdown](ME314_midterm_solution.Rmd)  
+
